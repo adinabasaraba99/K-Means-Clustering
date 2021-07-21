@@ -1,4 +1,4 @@
-Basaraba Adina-Vasilica, 313CD
+Basaraba Adina-Vasilica
 
 Task 1(Citirea datelor de intrare) 
 - Folosind fopen se deschide fisierul file_params pentru citire. 
